@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  fluentd:
+    image: fluentd:latest
+    volumes:
+    - "./config:/fluentd/etc/"
+    - "./input:/var/log/input/"
+    - "./output:/var/log/output/"

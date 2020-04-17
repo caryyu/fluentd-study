@@ -1,0 +1,5 @@
+1970-01-01T00:33:40+00:00	docker.var.log.input.docker-json.log	{"log":"2020-03-24 09:07:27 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).\n","stream":"stderr"}
+1970-01-01T00:33:40+00:00	docker.var.log.input.docker-json.log	{"log":"2020-03-24 09:07:27 0 [Note] Ignoring --secure-file-priv value as server is running with --bootstrap.\n","stream":"stderr"}
+1970-01-01T00:33:40+00:00	docker.var.log.input.docker-json.log	{"log":"2020-03-24 09:07:27 0 [Note] /usr/sbin/mysqld (mysqld 5.6.47) starting as process 51 ...\n","stream":"stderr"}
+1970-01-01T00:33:40+00:00	docker.var.log.input.docker-json.log	{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: Using atomics to ref count bufferpool pages\n","stream":"stderr"}
+1970-01-01T00:33:40+00:00	docker.var.log.input.docker-json.log	{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: The InnoDB memory heap is disabled\n","stream":"stderr"}

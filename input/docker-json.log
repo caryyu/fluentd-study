@@ -1,0 +1,8 @@
+{"log":"2020-03-24 09:07:27 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).\n","stream":"stderr","time":"2020-03-24T09:07:27.899174Z"}
+{"log":"2020-03-24 09:07:27 0 [Note] Ignoring --secure-file-priv value as server is running with --bootstrap.\n","stream":"stderr","time":"2020-03-24T09:07:27.899237Z"}
+{"log":"2020-03-24 09:07:27 0 [Note] /usr/sbin/mysqld (mysqld 5.6.47) starting as process 51 ...\n","stream":"stderr","time":"2020-03-24T09:07:27.8992766Z"}
+{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: Using atomics to ref count bufferpool pages\n","stream":"stderr","time":"2020-03-24T09:07:27.9037148Z"}
+{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: The InnoDB memory heap is disabled\n","stream":"stderr","time":"2020-03-24T09:07:27.9037512Z"}
+{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: The InnoDB memory heap is disabled\n","stream":"stderr","time":"2020-03-24T09:07:27.9037512Z"}
+{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: The InnoDB memory heap is disabled\n","stream":"stderr","time":"2020-03-24T09:07:27.9037512Z"}
+{"log":"2020-03-24 09:07:27 51 [Note] InnoDB: The InnoDB memory heap is disabled\n","stream":"stderr","time":"2020-03-24T09:07:27.9037512Z"}
